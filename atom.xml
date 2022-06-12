@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>BlockBuilder</title>
+  
+  <subtitle>Crypto</subtitle>
+  <link href="https://blockaa.metaspaces.me/atom.xml" rel="self"/>
+  
+  <link href="https://blockaa.metaspaces.me/"/>
+  <updated>2022-06-11T20:07:49.000Z</updated>
+  <id>https://blockaa.metaspaces.me/</id>
+  
+  <author>
+    <name>biubiu</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>吐槽邀请</title>
+    <link href="https://blockaa.metaspaces.me/2022/06/11/%E5%90%90%E6%A7%BD%E9%82%80%E8%AF%B7/"/>
+    <id>https://blockaa.metaspaces.me/2022/06/11/%E5%90%90%E6%A7%BD%E9%82%80%E8%AF%B7/</id>
+    <published>2022-06-11T20:07:32.000Z</published>
+    <updated>2022-06-11T20:07:49.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>metaspace 产品负责人邀请用户吐槽一下他们的产品</p><p>我是个普通不能再普通的用户了</p><p>那就简单吐槽一下吧</p><p>但也不能吐槽太多</p><p>担心打击她们的小心脏</p><p>来吧宝贝儿！</p><p>恰巧我也喜欢跟风尝鲜用过 hexo 和 github 以及其他写作平台</p><ol><li>给我的一个印象是 metaspace 把 hexo 和 github 给包装了一层，方便了用户创建自己的博客，省略了部署和编辑、发布的麻烦，确实减轻了非程序猿用户的门槛。不过如果 github 把我的仓库删了怎么办？也许我一不小心骂了微软一句，这种事谁知道呢？AR 里存的用户的文章信息还可以恢复出来？估计可以但也会很麻烦，所以团队说的删帖这种事，那就看 github 政策了。（这段只是疑问，不算吐槽哈）</li><li>作者说请大家忍受下 web3 substack 一系列反人类的 UX，又逗我，哥们，你知道反人类还不改改？所见即所得，用起来图个爽，用户不都这样嘛！我写了一篇文章，在后台找不到浏览入口，左边有 create、publish、草稿，就是没有查看文章这样的按钮，放到刚发布的连接上，连个“小手手”都没有，我还是把域名 copy 放到其他浏览器上才能看到我方才写了啥。写完了咋看？这个小动作挺困扰人的，一个小玩意就会拦住很多用户进行下一步的探索欲望<br><img src="https://storageapi.fleek.co/andoroyur-team-bucket/metanetwork/users/metaio-storage/screen-shot-2022-06-12-at-11-.-35-.-36.png" alt="metanetworkusersmetaiostoragescreenshot20220612at11.35.36.png"></li><li>终于打开文章后，在 mac 上看到的效果图跟手机屏幕一样，我放两张图，一张 metasapce 给出来的效果，一张是我自己前几年部署在 github 上的 hexo 文章图，感受下！当然这可以调整，但这些都是用户使用时的第一观感，因为外边有很多 web3 甚至 mirror 的产品，用户自然会进行对比。。<br><img src="https://storageapi.fleek.co/andoroyur-team-bucket/metanetwork/users/metaio-storage/image.png" alt="metanetworkusersmetaiostorageimage.png"></li></ol><p><img src="https://storageapi.fleek.co/andoroyur-team-bucket/metanetwork/users/metaio-storage/screen-shot-2022-06-12-at-11-.-20-.-24.png" alt="metanetworkusersmetaiostoragescreenshot20220612at11.20.24.png"></p><ol start="4"><li>用户进入 metanetwork 首页的时候让选择 space 空间，我估计就是 storage 和 domain 等信息，用户进入首页后，提示让选择 space，估计应为我是从 console 直接进入的，已经设置好了 storage 等相关信息，所以首页的位置总是提示 space 选择失败，另外也建议团队在用户选择 space 成功后，再次进入首页时，给个“提示”，所见即所得，让用户看见哦擦，这是我的 space，酷！现在点击左侧的“六边形”小按钮啥反应没有。<br><img src="https://storageapi.fleek.co/andoroyur-team-bucket/metanetwork/users/metaio-storage/screen-shot-2022-06-12-at-10-.-57-.-35.png" alt="metanetworkusersmetaiostoragescreenshot20220612at10.57.35.png"></li><li>另外用户用 metamask 登陆也不顺畅，总有小错，还是建议团队开放测试，邀请更多普通用户进行反馈，先满足这些基本需求再开发其他先进的功能。倒不用比 web2 博客产品号多少，基本用户体感保持一致先满足。很多团队在做 web3 应用产品的时候，其实用户会拿原有的 web2 产品进行对比的，又不像 metamask 和 cex、dex 产品一样，以前没这些东西，用户一看比较新，忍一忍也 ok，但是这些新开发的应用类产品就没有这个优势，还是得把产品体验提高提高。</li><li>当然 metanetwork 有个好的地方，即 publish 文章时比较顺畅，不用每次都调用 metamask，其实一直调用第三方钱包有点烦人，前几天用 lens 就是，每次发条信息就要调用一次 metamask，挺烦人的。</li><li>还有不少吐槽的地方，团队也在逐步完善，以后慢慢来吧，毕竟自己还是 crypto 领域的韭菜，对本行业的很多门槛都已经免疫了，如果你给传统用户去用这个估计会被。。。。</li></ol><p>总结：Web3 的同志们 加油 加油，未来是我们的。</p>]]></content>
+    
+    
+    <summary type="html">metaspace 产品负责人邀请用户吐槽一下他们的产品
+我是个普通不能再普通的用户了
+那就简单吐槽一下吧
+但也不能吐槽太多
+担心打击她们的小心脏
+来吧宝贝儿！
+恰巧我也喜欢跟风尝鲜用过 hex...</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>我擦，以后在这里写中文博客会怎么样？</title>
+    <link href="https://blockaa.metaspaces.me/2022/06/11/%E6%88%91%E6%93%A6%EF%BC%8C%E4%BB%A5%E5%90%8E%E5%9C%A8%E8%BF%99%E9%87%8C%E5%86%99%E4%B8%AD%E6%96%87%E5%8D%9A%E5%AE%A2%E4%BC%9A%E6%80%8E%E4%B9%88%E6%A0%B7%EF%BC%9F/"/>
+    <id>https://blockaa.metaspaces.me/2022/06/11/%E6%88%91%E6%93%A6%EF%BC%8C%E4%BB%A5%E5%90%8E%E5%9C%A8%E8%BF%99%E9%87%8C%E5%86%99%E4%B8%AD%E6%96%87%E5%8D%9A%E5%AE%A2%E4%BC%9A%E6%80%8E%E4%B9%88%E6%A0%B7%EF%BC%9F/</id>
+    <published>2022-06-11T18:36:55.000Z</published>
+    <updated>2022-06-11T18:37:23.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>写东西的地方换来换去，真是怕了。。</p><p>以前在 github 有中文博客，后来停了，发现 metaspace 用的也是 github！</p>]]></content>
+    
+    
+    <summary type="html">写东西的地方换来换去，真是怕了。。
+以前在 github 有中文博客，后来停了，发现 metaspace 用的也是 github！
+</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Welcome aboard Meta Space （CN+EN）</title>
+    <link href="https://blockaa.metaspaces.me/2021/12/22/hello-meta-space/"/>
+    <id>https://blockaa.metaspaces.me/2021/12/22/hello-meta-space/</id>
+    <published>2021-12-22T01:00:00.000Z</published>
+    <updated>2022-06-12T04:08:00.433Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://i.imgur.com/U9HusFg.png" alt=""></p><p>Hello Captain！<br>你好舰长！</p><p>欢迎登入 Meta Space！<br>Meta Team 希望打造的 Meta Space 是一个可持续构建的虚拟数字身份，您的元数据展示空间。</p><p>Web2.0 的时代摇摇欲坠——自1999年 Darcy DiNucci 提出这个术语之后，诸如版权保护、隐私控制、数据确权、身份连续性、数据控制权、信息审查等问题，一直存在并越来越让人担忧，这些阻碍创作者们二十余年的痛点将会在接下来的 Web3.0 时代中被更好的解决。人类将会通过 元数据宇宙和社交通证 史无前例地在未来连接为一个整体。在通向 Web3.0 的路上 ，还有无数个和您一样的同行者，以及未来更多受到启迪而加入到 Web3 舰队的创作者们。</p><h2 id="什么是-Meta-Space">什么是 Meta Space</h2><p>与人们当下已经习惯的社交网络不同，Meta Space 是完全属于您个人的空间。您的创作将存储在由您指定的可控空间，发布到完全属于您自己的域名，并且创作提交和发布的整个流程，都由可校验元数据的存证。Meta Space 从编辑到发布全流程保护您的数字权益。换句话说，您自己就是平台，所有的流量、收益以及数据版权都由您自己控制。如果你愿意，您过往的创作也将在不久的将来通过我们和社区发明的各种各样的迁移工具，安全地回归到您的 Meta Space 中。而社交网络将会在未来通过 Meta Team 提供的社交通证工具来逐步实现。Meta Space 是载您驶向 Web3.0 元数据宇宙的星际战舰。</p><p>对于看到这里的读者：<br>如果你希望自己创作的珍贵内容可被永久存储；<br>如果你希望自己创作到发布的过程不会被平台作恶；<br>如果你希望可以获得一个完全属于自己掌控的展示空间；<br>如果你希望从现在开始做好进入 Web3.0 世界的准备；<br>欢迎你来到这里创建自己的 Meta Space！<br>如果你是 Matataki 的老用户，这里将会是你们的新乐土！</p><h2 id="为什么是-Meta-Space">为什么是 Meta Space</h2><p>Meta Space 是可以脱离平台存在的独立站点，是个人创作元数据的展示空间，也是您进入 Web3.0 必备的、可持续构建的数字身份。</p><p>我们将过往产品 Matataki 中大家最喜爱的部分保留并且全面加强，同时提供了去平台化的体验。以下特性仅仅是一小部分：</p><p><strong>去平台化体验</strong><br>Meta Space 只作为工具，平台由您创建和控制。</p><p><strong>Markdown</strong><br>知道你钟爱 Markdown 写作，我们也是。</p><p><strong>去中心化存储</strong><br>被删帖删怕了吧？试试去中心化存储？</p><p><strong>创作存证</strong><br>每个环节我们都提供了可追溯可校验的存证工具！</p><p><strong>安全创作</strong><br>所有创作都在您本地完成，我们——任何您以外的其他人，都无权插手。</p><p><strong>元数据</strong><br>所有的内容、素材都以去中心化存储的元数据作为基础，保留 NFT 创作空间。</p><p><strong>社交通证</strong><br>上代产品 Matataki 中的核心价值工具——  Fan票，将在未来强势回归 Meta Space 中。</p><p><strong>更多特性，面向未来</strong><br>我们曾设想过这样一个未来世界：</p><ul><li>我希望在互联网上可以获得一个自己可控制的且永久的身份；</li><li>我希望我进入任何社交媒体的时候，都没有好友关系转移的负担；</li><li>我希望哪怕只和1000个真正的粉丝去达成连接，而不是关注虚荣指标——流量；</li><li>我希望我只去做自己喜欢且擅长的事情，就可以获得收入，养活自己；</li><li>我希望可以自由把控自己的生活方式，而不再被所谓的成功观念所绑架。</li><li>我所希望的 Web3.0 形式，是个人将元数据和数据掌握在自己手中。</li><li>我所希望的 Web3.0 形式，是平台负责好形式，个人负责好内容，网络负责好社交。</li></ul><p>我们的产品面向未来做足了准备，热切地朝向“创作者经济”出发——更多特性将会在未来逐步上线，欢迎随时联系我们，告诉我们你的想法！</p><h2 id="关于-Meta-Space-的链接">关于 Meta Space 的链接</h2><p>Meta WIKI：<a href="https://meta-io.gitbook.io/meta-wiki">https://meta-io.gitbook.io/meta-wiki</a></p><p>Join Matrix Group ：<a href="https://matrix.to/#/!jrjmzTFiYYIuKnRpEg:matrix.org?via=matrix.org">https://matrix.to/#/!jrjmzTFiYYIuKnRpEg:matrix.org?via=matrix.org</a><br>Join Discord ：<a href="https://discord.com/invite/59cXXWCWUT">https://discord.com/invite/59cXXWCWUT</a><br>Join Telegram：<a href="https://t.me/metanetwork">https://t.me/metanetwork</a><br>Twitter：<a href="https://twitter.com/realMetaNetwork">https://twitter.com/realMetaNetwork</a><br>Medium：<a href="https://medium.com/meta-network">https://medium.com/meta-network</a><br>Youtube：<a href="https://www.youtube.com/channel/UC-rNon6FUm3blTnSrXta2gw">https://www.youtube.com/channel/UC-rNon6FUm3blTnSrXta2gw</a></p><p><a href="http://Meta.io">Meta.io</a> 官网（<a href="https://meta.io/%EF%BC%89">https://meta.io/）</a><br>Meta Network 可视化社交网络 （<a href="https://www.metanetwork.online/%EF%BC%89">https://www.metanetwork.online/）</a><br>Meta Space Console 元空间控制台 （<a href="https://meta-space-console.metanetwork.online">https://meta-space-console.metanetwork.online</a>）<br>Meta Space Launcher 元空间启动器 （<a href="https://www.metaspaces.me/%EF%BC%89">https://www.metaspaces.me/）</a><br>Meta Space 元空间 （https://<Custom Domain>.metaspaces.me/）<br>Meta Data Viewer 元数据查看器 vercel<br>Meta Link 元链接 （Not launch yet）</p><p>【Telegram】Meta Network CN <a href="https://t.me/metanetwork_cn">https://t.me/metanetwork_cn</a><br>【Telegram】Meta Network <a href="https://t.me/metanetwork">https://t.me/metanetwork</a><br>【Telegram】Meta Network News <a href="https://t.me/metnetwork_news">https://t.me/metnetwork_news</a><br>【Discord】Meta Network <a href="https://t.co/iMYGY7iTx6">https://t.co/iMYGY7iTx6</a><br>【Medium】Meta Network <a href="https://medium.com/meta-network">https://medium.com/meta-network</a><br>【Twitter】@realMetaNetwork <a href="https://twitter.com/realMetaNetwork">https://twitter.com/realMetaNetwork</a><br>【Telegram】Matataki <a href="https://t.me/smartsignature_io">https://t.me/smartsignature_io</a></p><h1>Welcome aboard Meta Space</h1><p>Hello Captain!</p><p>Welcome to Meta Space!<br>The Meta Team wants to create Meta Space as a sustainably built virtual digital identity, your metadata display space.</p><p>The era of Web 2.0 is shaky - since Darcy DiNucci coined the term in 1999, issues such as copyright protection, privacy control, data validation, identity continuity, data control, and information censorship have been present and increasingly worrisome, issues that have held creators back for over two decades. These pain points will be better solved in the next Web 3.0 era. For the first time in history, humanity will be connected as a whole in the future through the metadata universe and social tokens. There are countless others like you on the road to Web3.0 and many more creators who will be inspired to join the Web3 fleet in the future.</p><h2 id="What-is-Meta-Space">What is Meta Space</h2><p>Unlike the social networks that people have become accustomed to, Meta Space is a space that is entirely personal to you. Your creations are stored in a controlled space designated by you, published to your domain, and the entire submission and publication process is verified by verifiable metadata. In other words, you are the platform, and you control all the traffic, revenue, and data copyright. If you wish, your past creations will be safely returned to your Meta Space shortly through various migration tools invented by the community and us. Meta Space is the starship that will carry you to the Web 3.0 metadata universe.</p><p>For those of you reading this:<br>If you want the precious content you create to be stored forever,<br>If you wish your creation-to-publication process to be free from the evils of the platform,<br>If you’re going to have access to a display space entirely under your control,<br>If you’re going to be ready to enter the Web 3.0 world from now on-</p><p>You are welcome to create your own Meta Space here!<br>If you’re an old Matataki user, this is your new home!</p><h2 id="Why-Meta-Space">Why Meta Space</h2><p>Meta Space is a stand-alone site that can exist off the platform, a showcase for your creative metadata, and a sustainable digital identity essential for your entry into Web 3.0.</p><p>We’ve taken the favorite parts of our previous product, Matataki, and enhanced them all while providing a de-platformed experience. The following features are just a few.</p><p><strong>De-platformed experience</strong><br>Meta Space is a tool only; you create and control the platform.</p><p><strong>Markdown</strong><br>We know you love Markdown writing, and so do we.</p><p><strong>Decentralized Storage</strong><br>Are you tired of getting your posts deleted? Try decentralized storage!</p><p><strong>Proved Creating</strong><br>We provide a traceable and verifiable proofing tool for every step of the process!</p><p><strong>Secured Creating</strong><br>All creations are done locally, and we - no one other than you - have the right to interfere.</p><p><strong>Metadata</strong><br>All content and material is based on decentralized stored metadata, preserving the NFT creation space.</p><p><strong>Social Token</strong><br>Fan ticket, the core value tool in the previous generation product Matataki, will return to Meta Space in the future.</p><p><strong>More features for the future</strong><br>We have envisioned a future world where</p><ul><li>I want to be able to have an identity on the Internet that I can control, and that is permanent.</li><li>I want to be able to access any social media without the burden of friend transfer.</li><li>I want to connect with even just 1,000 real followers rather than focusing on vanity metrics - traffic.</li><li>I want to earn an income and support myself by only going into what I love and am good at.</li><li>I want to be free to control my lifestyle and no longer be kidnapped by the so-called notion of success.</li><li>I want a form of Web 3.0 where individuals take metadata and data into their own hands.</li><li>The Web3.0 form I want is one in which the platform is responsible for good form, the individual is responsible for good content, and the network is responsible for good socialization.</li></ul><p>Our products are future-proof and passionately moving towards the “creator economy” - more features will come in the future, so feel free to contact us, and thanks for all the feedback!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/U9HusFg.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Hello Captain！&lt;br&gt;
+你好舰长！&lt;/p&gt;
+&lt;p&gt;欢迎登入 Meta Space！&lt;br&gt;
+Meta Team 希望打造的 Meta Space</summary>
+      
+    
+    
+    
+    <category term="Generated" scheme="https://blockaa.metaspaces.me/categories/Generated/"/>
+    
+    
+    <category term="Meta Space" scheme="https://blockaa.metaspaces.me/tags/Meta-Space/"/>
+    
+  </entry>
+  
+</feed>
